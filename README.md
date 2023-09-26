@@ -22,6 +22,6 @@ When you see a notification that says
 
 ## Features
 
-You can filter results in the upper pie chart by launch site location.
+Filter results by launch site location with ther dropdown menu.
 
-You can also filter the data displayed in the lower chart by dragging the payload mass sliders.
+Filter results by launch payload mass with the range slider.
